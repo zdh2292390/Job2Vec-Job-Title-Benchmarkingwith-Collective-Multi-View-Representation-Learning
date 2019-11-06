@@ -30,7 +30,7 @@ The code is MATLAB code works in Ubuntu system.
 
 ## Authors
 Welcome to send us Emails if you have any questions about the code and our work :-)
-* **Denghui Zhang** [Website](https://www.linkedin.com/in/denghui-zhang-112140a5/)
+* **Denghui Zhang** [Website](http://zhangdenghui.site/)
 * **xxx** [Website](http://allanding.net/)
 * **Lichen Wang** [Website](https://sites.google.com/site/lichenwang123/)
 
