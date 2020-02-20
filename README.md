@@ -24,7 +24,7 @@ We fuse the multi-view representations in the encode-decode paradigm to obtain a
 
 
 ## Running the code
-The code is MATLAB code works in Ubuntu system.
+The code is python code works in Ubuntu system. Coming soon.
 
 ## Authors
 Welcome to send us Emails if you have any questions about the code and our work :-)
