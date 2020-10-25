@@ -26,11 +26,6 @@ We fuse the multi-view representations in the encode-decode paradigm to obtain a
 ## Running the code
 The code is python code works in Ubuntu system. Coming soon.
 
-## Authors
-Welcome to send us Emails if you have any questions about the code and our work :-)
-* **Denghui Zhang** [Website](http://zhangdenghui.site/)
-* **xxx** [Website](http://allanding.net/)
-* **Lichen Wang** [Website](https://sites.google.com/site/lichenwang123/)
 
 
 ## Citation
