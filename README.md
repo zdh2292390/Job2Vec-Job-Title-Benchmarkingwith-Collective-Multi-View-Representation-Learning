@@ -31,15 +31,12 @@ The code is python code works in Ubuntu system. Coming soon.
 ## Citation
 This code is corresponding to our CIKM 2019 paper below:
 ```
-@ARTICLE{LTS_Lichen_TIP18, 
-  author={Lichen Wang and Zhengming Ding and Yun Fu}, 
-  journal={IEEE Transactions on Image Processing}, 
-  title={Low-Rank Transfer Human Motion Segmentation}, 
-  year={2019}, 
-  volume={28}, 
-  number={2}, 
-  pages={1023-1034},
-  doi={10.1109/TIP.2018.2870945},
+@inproceedings{zhang2019job2vec,
+  title={Job2Vec: Job title benchmarking with collective multi-view representation learning},
+  author={Zhang, Denghui and Liu, Junming and Zhu, Hengshu and Liu, Yanchi and Wang, Lichen and Wang, Pengyang and Xiong, Hui},
+  booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+  pages={2763--2771},
+  year={2019}
 }
 ```
 Please cite our paper if you like or use our work for your research, thank you very much!
